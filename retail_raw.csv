@@ -1,0 +1,6 @@
+OrderID,Date,Region,Category,Sub-Category,Product,Sales,Quantity,Discount,Profit
+CA-2024-100111,2024-01-01,West,Furniture,Bookcases,Bookcase A,261.96,2,0.0,41.91
+CA-2024-100112,2024-01-03,East,Technology,Phones,Phone X,731.94,3,0.2,219.58
+CA-2024-100113,2024-01-04,Central,Office Supplies,Labels,Label Z,14.62,2,0.0,6.87
+CA-2024-100114,2024-01-07,South,Technology,Accessories,Mouse Wireless,243.16,5,0.1,30.92
+CA-2024-100115,2024-01-08,West,Furniture,Chairs,Ergo Chair,957.58,7,0.3,90.75
