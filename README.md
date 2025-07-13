@@ -31,5 +31,4 @@ A data analytics project focused on understanding the performance of a retail co
 
 ---
 
-## 📁 Project Structure
 
